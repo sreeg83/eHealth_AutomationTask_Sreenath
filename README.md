@@ -12,6 +12,12 @@
 1)Project is configured to run with chrome driver only 
 2)Default timeout is given as 20 seconds (configurable)
 
+#Product Deatails
+1. Product - Sony TV
+2. Brand - Sony
+3. Resolution - 4K
+4. Model Year - 2022
+
 
 ##Report file path
 /test-output/ExtentReports/SmokeTest_AutomationReport.html
